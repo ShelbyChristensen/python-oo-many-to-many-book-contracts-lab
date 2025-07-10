@@ -114,3 +114,11 @@ Before you submit your solution, you need to save your progress with git.
 * Add your changes to the staging area by executing git add .
 * Create a commit by executing git commit -m "Your commit message"
 * Push your commits to GitHub by executing git push origin main
+
+
+
+*Completed by Shelby
+
+-A fully working **many-to-many lab implementation**  
+-A clear **OOP relationship model** for quizzes and interviews  
+-Passing tests  
